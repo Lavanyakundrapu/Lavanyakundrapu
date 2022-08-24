@@ -33,9 +33,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavanyakundrapu&show_icons=true&theme=dark)
 
-  <a href="https://activity-graph.herokuapp.com/graph?username=Lavanyakundrapu">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Lavanyakundrapu&theme=react-dark&hide_border=true">
-  </a>
+  
   
  
 [![Lavanya Kundrapu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanyakundrapu)](https://github.com/Lavanyakundrapu/github-readme-stats)

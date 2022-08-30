@@ -1,17 +1,17 @@
 <h1 align="center">Hola 👋, I'm Lavanya Kudrapu</h1>
 
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science**.
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**.
 
-- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning**.
 
-- 🤝 I’m looking for help with **SQL, Web Development**
+- 🤝 I’m looking for help with **SQL, Web Development**.
 
-- 😄 Pronouns **Be better than how you used to be**
+- 😄 Pronouns **Be better than how you used to be**.
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**.
 
 - 📫 How to reach me **lavnyakundrapu.09@gmail.com**
 

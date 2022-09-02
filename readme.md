@@ -39,7 +39,13 @@
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=lavanyakundrapu&theme=xcode" />
 </p><p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanyakundrapu&" alt="Lavanyakundrapu"  theme="dark"/></p>
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanyakundrapu&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavanyakundrapu&show_icons=true&theme=dark)
 

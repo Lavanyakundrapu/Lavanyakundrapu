@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, I'm Lavanya Kudrapu</h1>
 
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
 </div>
@@ -48,12 +47,10 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lavanyakundrapu&show_icons=true&theme=dark)
-
-  
-  
-  
- 
 [![Lavanya Kundrapu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanyakundrapu)](https://github.com/Lavanyakundrapu/github-readme-stats)
+
+   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> Sic Parvis Magna  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+
 
 
 

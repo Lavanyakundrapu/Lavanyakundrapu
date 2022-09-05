@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
 </div>
 
-
+<!--
 - 🔭 I’m currently working on **Data Science**.
 
 - 🌱 I’m currently learning **Artificial Intelligence**.
@@ -21,7 +21,7 @@
 - 📫 How to reach me **lavnyakundrapu.09@gmail.com**
 
 - ⚡ Motto **Sic Parvis Magna**
-
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanyakundrapu&label=Profile%20views&color=0e75b6&style=flat" alt="lavanyakundrapu" /> </p>
 </ul>

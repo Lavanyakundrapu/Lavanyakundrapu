@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
 </div>
 
-
 - 🔭 I’m currently working on **Data Science**.
 
 - 🌱 I’m currently learning **Artificial Intelligence**.
